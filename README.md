@@ -38,20 +38,12 @@ Este é um aplicativo web de busca de filmes desenvolvido em React que permite a
    npm install
    ```
 
-3. **Configure a API Key (opcional):**
-   - Crie um arquivo `.env` na raiz do projeto
-   - Adicione sua chave da API OMDB:
-   ```
-   VITE_OMDB_API_KEY=sua_chave_aqui
-   ```
-   - Se não configurar, será usada a chave demo "thewdb"
-
-4. **Execute o projeto:**
+3. **Execute o projeto:**
    ```bash
    npm run dev
    ```
 
-5. **Acesse no navegador:**
+4. **Acesse no navegador:**
    - Ou digite `o` no terminal para abrir automaticamente no navegador
 
 
