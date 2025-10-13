@@ -52,7 +52,8 @@ Este é um aplicativo web de busca de filmes desenvolvido em React que permite a
    ```
 
 5. **Acesse no navegador:**
-   - Digite `o` para abrir o server no navegador
+   - Ou digite `o` no terminal para abrir automaticamente no navegador
+
 
 
 ## Fonte da API utilizada
