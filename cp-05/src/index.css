@@ -1,6 +1,5 @@
 @import "tailwindcss";
 
-/* utilitários globais mínimos para o layout */
 @layer utilities {
   .container-page {
     @apply mx-auto max-w-5xl px-4;

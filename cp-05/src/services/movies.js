@@ -1,10 +1,6 @@
 const OMDB_API_URL = "https://www.omdbapi.com/";
 
-/**
- * Obtém a API key do ambiente, com fallback para a chave demo "thewdb".
- */
 function getApiKey() {
-  // Em Vite, variáveis começam com VITE_
   const fromEnv = import.meta?.env?.VITE_OMDB_API_KEY;
   return fromEnv && String(fromEnv).trim().length > 0 ? fromEnv : "thewdb";
 }
@@ -58,5 +54,6 @@ export async function getMovieById(imdbId) {
     rating: m.imdbRating,
   };
 }
+
 
 
