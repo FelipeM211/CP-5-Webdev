@@ -64,3 +64,6 @@ Este projeto utiliza a **OMDB API** (Open Movie Database API) para buscar inform
 - **Chave demo:** "thewdb" (limitada a 1000 requisições por dia)
 - **Para produção:** É necessário obter uma chave própria em http://www.omdbapi.com/apikey.aspx
 
+### Endpoints utilizados:
+- `GET /?apikey={key}&s={search}&type=movie` - Busca filmes por título
+- `GET /?apikey={key}&i={imdbID}&plot=short` - Busca detalhes de um filme específico
