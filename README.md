@@ -27,9 +27,8 @@ Este é um aplicativo web de busca de filmes desenvolvido em React que permite a
 
 ## Como executar localmente
 
-1. **Clone o repositório:**
+1. **Entre na pasta correta:**
    ```bash
-   git clone <url-do-repositorio>
    cd CP-5-Webdev/cp-05
    ```
 
