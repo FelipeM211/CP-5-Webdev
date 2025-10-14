@@ -43,7 +43,7 @@ Este é um aplicativo web de busca de filmes desenvolvido em React que permite a
    ```
 
 4. **Acesse no navegador:**
-   - Ou digite `o` no terminal para abrir automaticamente no navegador
+   - Digite `o` no terminal para abrir automaticamente no navegador
 
 
 
@@ -53,7 +53,7 @@ Este projeto utiliza a **OMDB API** (Open Movie Database API) para buscar inform
 
 - **URL da API:** https://www.omdbapi.com/
 - **Documentação:** http://www.omdbapi.com/
-- **Chave demo:** "thewdb" (limitada a 1000 requisições por dia)
+- **Chave demo:** "thewdb" 
 - **Para produção:** É necessário obter uma chave própria em http://www.omdbapi.com/apikey.aspx
 
 ### Endpoints utilizados:
